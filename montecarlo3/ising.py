@@ -1,3 +1,4 @@
+"""test"""  
 import numpy as np
 from .bs import BitString
 
