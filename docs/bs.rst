@@ -1,0 +1,2 @@
+.. automodule:: bs.py
+   :members:
