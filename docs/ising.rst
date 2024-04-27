@@ -1,3 +1,2 @@
-.. automodule:: ising.py
+.. automodule:: montecarlo3.ising
    :members:
-1

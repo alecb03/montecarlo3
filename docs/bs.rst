@@ -1,2 +1,3 @@
-.. automodule:: bs.py
+.. automodule:: montecarlo3.bs
    :members:
+
